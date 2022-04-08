@@ -4,15 +4,15 @@ Hi! My name is Lauralyn Watson (she/her). I'm a software engineer enrolled in th
 
 I want to collaborate with a diverse team of software engineers that values and supports work-life balance and continued learning. I hope to inspire other people who look like me to break into tech.
   
-  - 🏡 I love spending time with my family, traveling and talking about health and fitness.
+  - 💚 I love spending time with my 🏡 family, 🌍 traveling and 🌿🏋🏽‍♀️ health and fitness.
   - 🌋 Check out my latest project 🍅 [Rancid Tomatillos](https://github.com/lswatson16/Rancid_Tomatillos) 🍅
-  - 🤓 I'm currently learning TypeScript (self-taught).
+  - 🤓 I'm currently learning TypeScript (self-teaching).
   - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/lauralyn-watson/)
 
-<img height="250" width="350" src="https://github-readme-stats.vercel.app/api?username=lswatson16&theme=blue-green"/>
+<img height="275" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=73C6B6&title_color=fff&text_color=fff"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lswatson16&theme=blue-green"/> -->
 
-# Technologies
+## Technologies
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -30,6 +30,8 @@ I want to collaborate with a diverse team of software engineers that values and 
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=14213d)
@@ -41,7 +43,7 @@ I want to collaborate with a diverse team of software engineers that values and 
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) -->
 
 
-# Contact Information
+## Contact Information
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauralynw16@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauralyn-watson/)
