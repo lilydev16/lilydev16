@@ -1,8 +1,13 @@
 # Welcome 👋
 
-Hi! My name is Lauralyn Watson (she/her). I'm a software engineer enrolled in the front-end program at Turing School of Software & Design.
+Hi! My name is Lauralyn Watson (she/her). I'm a software engineer enrolled in the front-end program at [Turing School of Software & Design](https://turing.edu/). I'm a career changer with 10+ years of customer service experience in the health care industry. While working at a major New York City hospital, I've learned to fine tune these soft skills: empathy, problem-solving, working under pressure, documentation, communication, and detail-orientation. 
 
-🤓 I'm currently learning TypeScript (self-taught).
+I want to collaborate with a diverse team of software engineers that values and supports work-life balance and continued learning. I hope to inspire other people who look like me to break into tech.
+  
+  - 🏡 I love spending time with my family, traveling and talking about health and fitness.
+  - 🌋 Check out my latest project 🍅 [Rancid Tomatillos](https://github.com/lswatson16/Rancid_Tomatillos) 🍅
+  - 🤓 I'm currently learning TypeScript (self-taught).
+  - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/lauralyn-watson/)
 
 <img height="250" width="350" src="https://github-readme-stats.vercel.app/api?username=lswatson16&theme=blue-green"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lswatson16&theme=blue-green"/> -->
@@ -26,6 +31,8 @@ Hi! My name is Lauralyn Watson (she/her). I'm a software engineer enrolled in th
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=14213d)
 
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
