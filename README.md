@@ -2,9 +2,9 @@
 
 Hi! My name is Lauralyn Watson (she/her). I'm a software engineer enrolled in the front-end program at [Turing School of Software & Design](https://turing.edu/). I'm a career changer with 10+ years of customer service experience in the health care industry. While working at a major New York City hospital, I've learned to fine tune these soft skills: empathy, problem-solving, working under pressure, documentation, communication, and detail-orientation. 
 
-I want to collaborate with a diverse team of software engineers that values and supports work-life balance and continued learning. I hope to inspire other people who look like me to break into tech.
+I want to collaborate with a diverse team of software engineers that values and supports work-life balance and continued learning. I want to inspire other people who look like me to start a career in tech.
   
-  - 💚 I love spending time with my 🏡 family, 🌍 traveling and 🌿🏋🏽‍♀️ health and fitness.
+  - 💚 I love spending time with my 🏡 family and 🌍 traveling.
   - 🌋 Check out my latest project 🍅 [Rancid Tomatillos](https://github.com/lswatson16/Rancid_Tomatillos) 🍅
   - 🤓 I'm currently learning TypeScript (self-teaching).
   - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/lauralyn-watson/)
@@ -28,22 +28,21 @@ I want to collaborate with a diverse team of software engineers that values and 
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=14213d)
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 <!-- ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) -->
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) -->
 
 
-## Contact Information
+## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauralynw16@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauralyn-watson/)
