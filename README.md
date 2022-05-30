@@ -12,6 +12,11 @@ I want to collaborate with a diverse team of software engineers that values and 
 <img height="275" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=73C6B6&title_color=fff&text_color=fff"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lswatson16&theme=blue-green"/> -->
 
+## Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauralynw16@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauralyn-watson/)
+
 ## Technologies
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,9 +45,3 @@ I want to collaborate with a diverse team of software engineers that values and 
 
 <!-- ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) -->
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) -->
-
-
-## Contact Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauralynw16@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauralyn-watson/)
