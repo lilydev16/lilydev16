@@ -1,12 +1,10 @@
 # Welcome 👋
 
-Hi! My name is Lauralyn Watson (she/her). I'm a software engineer enrolled in the front-end program at [Turing School of Software & Design](https://turing.edu/). I'm a career changer with 10+ years of customer service experience in the health care industry.
-
-I want to collaborate with a diverse team of software engineers that values and supports work-life balance and continued learning. I want to inspire other people who look like me to start a career in tech.
+Hi! My name is Lauralyn Watson (she/her). I'm a software engineer enrolled in the front-end program at [Turing School of Software & Design](https://turing.edu/). I'm a career changer with a non-technical background. I want to collaborate with a diverse and inclusive team of software engineers that values and supports work-life balance and continued learning. I want to inspire other people who look like me to start a career in tech.
   
   - 💚 I love spending time with my 🏡 family and 🌍 traveling.
-  - 🌋 Check out my latest project 🍅 [Rancid Tomatillos](https://github.com/lswatson16/Rancid_Tomatillos) 🍅
-  - 🤓 I'm currently learning TypeScript and React hooks.
+  - 🌋 Check out my latest project 🍅 [Fun With AI](https://github.com/lswatson16/fun_with_ai) 🍅
+  - 🤓 I'm currently learning TypeScript and Redux.
   - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/lauralyn-watson/)
 
 <img height="275" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=73C6B6&title_color=fff&text_color=fff"/>
