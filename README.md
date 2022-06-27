@@ -3,7 +3,7 @@
 Hi! My name is Lauralyn Watson (she/her). I'm a software engineer and recent graduate of the front-end program at [Turing School of Software & Design](https://turing.edu/) looking to collaborate with a diverse and inclusive team of software engineers that values work-life balance and continued learning. I want to inspire other people who look like me to start a career in tech.
   
   - 💚 I love spending time with my 🏡 family and 🌍 traveling.
-  - 🌋 Check out my latest project 🤖  [Fun With AI](https://github.com/lswatson16/fun_with_ai) 🤖 
+  - 🌋 Check out my latest project 🤖  [AMA AI](https://github.com/lswatson16/fun_with_ai) 🤖 
   - 🤓 I'm currently learning TypeScript and Redux.
   - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/lauralyn-watson/)
 
