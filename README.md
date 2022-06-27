@@ -1,4 +1,4 @@
-![Pastel Pink Minimalist Lifestyle Blogger LinkedIn Banner](https://user-images.githubusercontent.com/93230374/176032951-b397754e-c167-4f6f-89c7-ad6e318fea2f.jpg)
+![Green Minimalist Lifestyle Blogger LinkedIn Banner](https://user-images.githubusercontent.com/93230374/176033863-8a649319-e6c9-4cf2-b26e-60baa04bab17.png)
 
 
 # Welcome 👋🏽
@@ -48,5 +48,5 @@ Hi! My name is Lauralyn Watson (she/her). I'm a software engineer and recent gra
 
 ## Stats
 
-<img height="275" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=73C6B6&title_color=fff&text_color=fff"/>
+<img height="275" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=B8D1AE&title_color=fff&text_color=fff"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lswatson16&theme=blue-green"/> -->
