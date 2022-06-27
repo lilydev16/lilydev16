@@ -1,4 +1,7 @@
-# Welcome 👋
+![Pastel Pink Minimalist Lifestyle Blogger LinkedIn Banner](https://user-images.githubusercontent.com/93230374/176032951-b397754e-c167-4f6f-89c7-ad6e318fea2f.jpg)
+
+
+# Welcome 👋🏽
 
 Hi! My name is Lauralyn Watson (she/her). I'm a software engineer and recent graduate of the front-end program at [Turing School of Software & Design](https://turing.edu/) looking to collaborate with a diverse and inclusive team of software engineers that values work-life balance and continued learning. I want to inspire other people who look like me to start a career in tech.
   
