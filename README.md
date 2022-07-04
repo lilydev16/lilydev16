@@ -1,4 +1,4 @@
-![Green Minimalist Lifestyle Blogger LinkedIn Banner](https://user-images.githubusercontent.com/93230374/176033863-8a649319-e6c9-4cf2-b26e-60baa04bab17.png)
+![Green Minimalist Lifestyle Blogger LinkedIn Banner](https://user-images.githubusercontent.com/93230374/177226530-4382dcec-2bb8-4ef2-ae02-0e1b80979b65.png)
 
 
 # Welcome 👋🏽
