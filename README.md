@@ -6,14 +6,14 @@
 Hi! My name is Lauralyn Watson (she/her). I'm a software engineer and recent graduate of the front-end program at [Turing School of Software & Design](https://turing.edu/) looking to collaborate with a diverse and inclusive team of software engineers that values work-life balance and continued learning. I want to inspire other people who look like me to start a career in tech.
   
   - 💚 I love spending time with my 🏡 family and 🌍 traveling.
-  - 🌋 Check out my latest project 🤖  [AMA AI](https://github.com/lswatson16/fun_with_ai) 🤖 
-  - 🤓 I'm currently learning TypeScript and Redux.
-  - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/lauralyn-watson/)
+  - 🌋 Check out one of my latest projects, [AMA AI](https://github.com/lswatson16/fun_with_ai) 🤖 
+  - 🤓 I'm currently learning Node.js and Redux.
 
-## Contact Me
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauralyn-watson/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauralynw16@gmail.com)
+<h3 align="center">Let's Connect!</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/lauralyn-watson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lauralyn-watson/" height="30" width="40" /></a>
+<a href="mailto:watsonlauralyn@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93230374/177228806-25c239ea-4e81-474f-a069-a51808e1415c.svg" alt="mailto:watsonlauralyn@gmail.com" height="30" width="40" /></a>
+</p>
 
 ## Technologies
 
@@ -25,8 +25,8 @@ Hi! My name is Lauralyn Watson (she/her). I'm a software engineer and recent gra
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
-<!-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) -->
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Testing
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
@@ -50,3 +50,8 @@ Hi! My name is Lauralyn Watson (she/her). I'm a software engineer and recent gra
 
 <img height="275" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=B8D1AE&title_color=fff&text_color=fff"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lswatson16&theme=blue-green"/> -->
+
+## Contact Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauralyn-watson/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:watsonlauralyn@gmail.com)
