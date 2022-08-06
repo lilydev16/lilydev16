@@ -6,7 +6,7 @@
 Hi! My name is Lauralyn Watson (she/her). I'm a software engineer and recent graduate of the front-end program at [Turing School of Software & Design](https://turing.edu/) looking to collaborate with a diverse and inclusive team of software engineers that values work-life balance and continued learning. I want to inspire other people who look like me to start a career in tech.
   
   - 💚 I love spending time with my 🏡 family and 🌍 traveling.
-  - 🌋 Check out one of my latest projects, [AMA AI](https://github.com/lswatson16/fun_with_ai) 🤖 
+  - 🧑🏽‍💻 Please check out my [Portfolio](https://portfolio-lswatson16.vercel.app/).
   - 🤓 I'm currently learning Node.js and Redux.
 
 <h3 align="center">Let's Connect!</h3>
@@ -18,37 +18,36 @@ Hi! My name is Lauralyn Watson (she/her). I'm a software engineer and recent gra
 ## Technologies
 
 ### Languages/Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-047656.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-6DA55F?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-047656?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-6DA55F?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-047656?style=for-the-badge&logo=css3&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-047656.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) -->
 
 ### Testing
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Mocha](https://img.shields.io/badge/Mocha-6DA55F?style=for-the-badge&logo=Mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/chai-047656?style=for-the-badge&logo=chai&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-6DA55F?style=for-the-badge&logo=cypress&logoColor=white)
 
-### Tools
+<!-- ### Tools
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=14213d)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) -->
 
 <!-- ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) -->
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) -->
 
 ## Stats
 
-<img height="275" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=B8D1AE&title_color=fff&text_color=fff"/>
+<img height="275" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=047656&title_color=fff&text_color=fff"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lswatson16&theme=blue-green"/> -->
 
 ## Contact Me
