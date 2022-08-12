@@ -18,19 +18,19 @@ Hi! My name is Lauralyn Watson (she/her). I'm a software engineer and recent gra
 ## Technologies
 
 ### Languages/Frameworks
-![React](https://img.shields.io/badge/react-047656.svg?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-6DA55F?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-047656?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-6DA55F?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-047656?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-DDBEA9.svg?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-EDDCD2?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-CB9A7E?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-DDBEA9?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-EDDCD2?style=for-the-badge&logo=css3&logoColor=white)
 
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-047656.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) -->
 
 ### Testing
-![Mocha](https://img.shields.io/badge/Mocha-6DA55F?style=for-the-badge&logo=Mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/chai-047656?style=for-the-badge&logo=chai&logoColor=white)
-![Cypress](https://img.shields.io/badge/-cypress-6DA55F?style=for-the-badge&logo=cypress&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-CB9A7E?style=for-the-badge&logo=Mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/chai-DDBEA9?style=for-the-badge&logo=chai&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-EDDCD2?style=for-the-badge&logo=cypress&logoColor=white)
 
 <!-- ### Tools
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -47,7 +47,7 @@ Hi! My name is Lauralyn Watson (she/her). I'm a software engineer and recent gra
 
 ## Stats
 
-<img height="275" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=047656&title_color=fff&text_color=fff"/>
+<img height="275" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=DDBEA9&title_color=fff&text_color=fff"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lswatson16&theme=blue-green"/> -->
 
 ## Contact Me
