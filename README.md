@@ -47,7 +47,7 @@ Hi! My name is Lauralyn Watson (she/her). I'm a software engineer and recent gra
 
 ## Stats
 
-<img height="275" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=DDBEA9&title_color=fff&text_color=fff"/>
+<img height="375" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=DDBEA9&title_color=333&text_color=333"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lswatson16&theme=blue-green"/> -->
 
 ## Contact Me
