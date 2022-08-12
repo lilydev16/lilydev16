@@ -18,7 +18,7 @@ Hi! My name is Lauralyn Watson (she/her). I'm a software engineer and recent gra
 ## Technologies
 
 ### Languages/Frameworks
-![React](https://img.shields.io/badge/react-047656.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-047656.svg?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6DA55F?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-047656?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-6DA55F?style=for-the-badge&logo=html5&logoColor=white)
