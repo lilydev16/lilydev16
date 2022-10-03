@@ -3,11 +3,12 @@
 
 # Welcome 👋🏽
 
-Hi! My name is Lauralyn Watson (she/her). I'm a software engineer looking to collaborate with a diverse and inclusive team of software engineers that values work-life balance and continued learning. I want to inspire other people who look like me to start a career in tech.
+Hi! My name is Lauralyn Watson (she/her). I'm a software engineer looking to collaborate with a diverse and inclusive team of software engineers that value work-life balance and continued learning. I want to inspire other people who look like me to start a career in tech.
   
   - 💚 I love spending time with my 🏡 family and 🌍 traveling.
-  - 🧑🏽‍💻 Please check out my [Portfolio](https://portfolio-lswatson16.vercel.app/).
-  - 🤓 I'm currently learning Node.js and Redux.
+  - 🧑🏽‍💻 Check out my [Portfolio](https://portfolio-lswatson16.vercel.app/).
+  - 🥷 I'm currently solving problems on Codewars [![Codewars](https://www.codewars.com/users/lily_dev/badges/micro)
+](https://www.codewars.com/users/lily_dev)
 
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
@@ -48,7 +49,7 @@ Hi! My name is Lauralyn Watson (she/her). I'm a software engineer looking to col
 ## Stats
 
 <img height="375" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=DDBEA9&title_color=333&text_color=333"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lswatson16&theme=blue-green"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lswatson16&bg_color=DDBEA9&title_color=333&text_color=333"/>
 
 ## Contact Me
 
