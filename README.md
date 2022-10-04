@@ -1,6 +1,12 @@
 # Welcome 👋🏽
 
-Hi! My name is Lauralyn Watson (she/her). I'm a software engineer looking to collaborate with a diverse and inclusive team of software engineers that value work-life balance and continued learning. I want to inspire other people who look like me to start a career in tech.
+Hi! My name is Lauralyn Watson (she/her). I'm a software engineer looking to collaborate with a diverse and inclusive team of software engineers that value work-life balance and continued learning. I want to inspire and be a role model for people who look like me to start a career in tech.
+
+Empathy is my superpower and I’m passionate about helping others. I have 10-plus years of working in a major New York hospital where I've learned to have empathy and respect for folks from a variety of diverse backgrounds. I excelled in delivering time-sensitive quality care to patients and colleagues. 
+
+Working in the healthcare industry, I used software daily to improve the patient experience. At the same time, I was curious and documented ways to improve the software. I took a course in web development to learn HTML, CSS, JavaScript, and jQuery. The course was a positive learning experience and opened my eyes to pursuing a career as a software engineer. Building software reminds me of my love for solving math problems and crossword puzzles. I enjoy the challenge and continuous opportunities to learn something new every day as a developer.
+
+Fun fact: I traveled solo to China to attend the 2014 International Scholar Laureate Program and walked the Great Wall of China.
   
   - 💚 I love spending time with my 🏡 family and 🌍 traveling.
   - 🧑🏽‍💻 Check out my [Portfolio](https://portfolio-lswatson16.vercel.app/).
