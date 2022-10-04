@@ -1,6 +1,3 @@
-![Green Minimalist Lifestyle Blogger LinkedIn Banner](https://user-images.githubusercontent.com/93230374/177226530-4382dcec-2bb8-4ef2-ae02-0e1b80979b65.png)
-
-
 # Welcome 👋🏽
 
 Hi! My name is Lauralyn Watson (she/her). I'm a software engineer looking to collaborate with a diverse and inclusive team of software engineers that value work-life balance and continued learning. I want to inspire other people who look like me to start a career in tech.
@@ -48,8 +45,8 @@ Hi! My name is Lauralyn Watson (she/her). I'm a software engineer looking to col
 
 ## Stats
 
-<img height="375" width="360" src="https://github-readme-stats.vercel.app/api?username=lswatson16&bg_color=DDBEA9&title_color=333&text_color=333"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lswatson16&bg_color=DDBEA9&title_color=333&text_color=333"/>
+<img height="375" width="360" src="https://github-readme-stats.vercel.app/api?username=lilydev16&bg_color=DDBEA9&title_color=333&text_color=333"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilydev16&bg_color=DDBEA9&title_color=333&text_color=333"/>
 
 ## Contact Me
 
