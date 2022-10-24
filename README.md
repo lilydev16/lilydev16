@@ -10,8 +10,8 @@ Fun fact: I traveled solo to China to attend the 2014 International Scholar Laur
   
   - 💚 I love spending time with my 🏡 family and 🌍 traveling.
   - 🧑🏽‍💻 Check out my [Portfolio](https://portfolio-lswatson16.vercel.app/).
-  - 🥷 Solving problems on Codewars [![Codewars](https://www.codewars.com/users/lily__dev/badges/micro)
-](https://www.codewars.com/users/lily__dev)
+  - 🥷 Solving problems on Codewars [![Codewars](https://www.codewars.com/users/lily_webdev/badges/micro)
+](https://www.codewars.com/users/lily_webdev)
   - Attended DevCon Bogota 🇨🇴 in 2022
 
 <h3 align="center">Let's Connect!</h3>
