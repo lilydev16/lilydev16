@@ -9,10 +9,11 @@ Working in the healthcare industry, I used software daily to improve the patient
 Fun fact: I traveled solo to China to attend the 2014 International Scholar Laureate Program and walked the Great Wall of China.
   
   - 💚 I love spending time with my 🏡 family and 🌍 traveling.
+  - 🥳 Transitioned careers and graduated from [Turing](https://turing.edu/) - an accredited 7-month software engineering program. 
   - 🧑🏽‍💻 Check out my [Portfolio](https://portfolio-lswatson16.vercel.app/).
+  - 🐼 Attended DevCon Bogota 🇨🇴 in 2022.
   - 🥷 Solving problems on Codewars [![Codewars](https://www.codewars.com/users/lily_webdev/badges/micro)
 ](https://www.codewars.com/users/lily_webdev)
-  - Attended DevCon Bogota 🇨🇴 in 2022
 
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
