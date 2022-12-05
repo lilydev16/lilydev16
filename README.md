@@ -1,5 +1,10 @@
 # Welcome 👋🏽
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3m1fbOr4UttDYdZStA/giphy.gif" alt="Issa Rae dancing" height="200" width="100" />
+</div>
+<br>
+
 Hi! My name is Lauralyn Watson (she/her). I'm a software engineer looking to collaborate with a diverse and inclusive team of software engineers that value work-life balance and continued learning. I want to inspire and be a role model for people who look like me to start a career in tech.
 
 Empathy is my superpower and I’m passionate about helping others. I have 10-plus years of working in a major New York hospital where I've learned to have empathy and respect for folks from a variety of diverse backgrounds. I excelled in delivering time-sensitive quality care to patients and colleagues. 
