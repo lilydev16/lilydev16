@@ -58,8 +58,6 @@ Fun fact: I traveled solo to China to attend the 2014 International Scholar Laur
 
 ## Stats
 
-<img height="375" width="360" src="https://github-readme-stats.vercel.app/api?username=lilydev16&bg_color=DDBEA9&title_color=333&text_color=333"/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=lilydev16&theme=vue-dark)](https://git.io/streak-stats)
 
 ## Contact Me
